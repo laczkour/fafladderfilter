@@ -17,4 +17,5 @@
   This step will get each players ladder history one-by-one, and filter out who have not played recently
 ## Step 4. 
   node modify_filtered_final.js<br>
-  This step will create the filtered final.csv which was used to create the FAF Ladder spreadsheet
+  This step will create the filtered final.csv which was used to create the FAF Ladder spreadsheet<br>
+  https://docs.google.com/spreadsheets/d/12vWYMn3aZc89gwM--jMX_MfneUg3ueRRLYBTRrYTA3U/edit?usp=sharing
